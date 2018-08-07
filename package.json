@@ -1,8 +1,8 @@
 {
-  "name": "electronreactboilerplate",
-  "author": "Omer Arie Goldberg",
-  "version": "0.0.2",
-  "description": "up and running with electron, react and auto updates",
+  "name": "metaripper",
+  "author": "Guenton P. A. Brooks",
+  "version": "0.0.3",
+  "description": "Metadata Ripper for Audio and Video Files",
   "repository": {
     "type": "git",
     "url": ""
